@@ -27,7 +27,7 @@ Highlights:
 - Thermal and hydraulic erosion
 - ScriptableObject-based persistence
 
-### Monkey Jump 2D - Unity Browser Game
+### Monkey Jump 2D - Unity Game
 Endless vertical platformer with browser-playable build.
 
 Highlights:
