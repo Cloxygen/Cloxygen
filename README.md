@@ -1,4 +1,4 @@
-# David / Cloxygen
+# David V Murray
 
 Java, C#, and Unity developer focused on practical systems, gameplay tools, automation, and editor tooling.
 
