@@ -6,7 +6,7 @@ I build purpose-fit software: simple where possible, more complex only when the 
 
 ## Featured Work
 
-### QMiner — Java Automation Tool
+### QMiner - Java Automation Tool
 Long-running Java automation project used by 17,000+ users over 9 years.
 
 Highlights:
@@ -16,7 +16,7 @@ Highlights:
 - Smart banking, dropping, world hopping, and return behavior
 - Long-term maintenance under real user usage
 
-### TerrainGraphEditor — Unity Procedural Terrain Tool
+### TerrainGraphEditor - Unity Procedural Terrain Tool
 Custom Unity editor tool for building procedural terrain through a node-based graph system.
 
 Highlights:
@@ -27,7 +27,7 @@ Highlights:
 - Thermal and hydraulic erosion
 - ScriptableObject-based persistence
 
-### Monkey Jump 2D — Unity Browser Game
+### Monkey Jump 2D - Unity Browser Game
 Endless vertical platformer with browser-playable build.
 
 Highlights:
