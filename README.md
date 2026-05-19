@@ -1,6 +1,6 @@
 # David V Murray
 
-Java, C#, and Unity developer focused on practical systems, gameplay tools, automation, and editor tooling.
+C#, Unity, and Java developer focused on practical systems, gameplay tools, automation, and editor tooling.
 
 I build purpose-fit software: simple where possible, more complex only when the project actually needs it. My strongest work includes a Java automation tool used by 17,000+ users over 9 years, a Unity procedural terrain graph editor, and a browser-playable 2D platformer.
 
